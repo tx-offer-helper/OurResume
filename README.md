@@ -1,6 +1,8 @@
 # OurResume
 针对我们参与过鹅厂校招，并被大菜菜内推过的同学，或许点评与学习简历
 本模块的精华内推会整理在【大菜菜鹅厂offer人】公众号上。
+
+
 ![公众号二维码](https://mmbiz.qpic.cn/mmbiz_jpg/EjjRT2SXvmHEhMpwK583nfW8UXplPHqoZeib2Roibib3p5rKS5WIATf791EjAcQU7YTFu1GseicdBug683u928v6gA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 本人大菜菜，去年秋招上岸的菜鸡学生
@@ -15,9 +17,13 @@
 - 大菜菜-大数据开发偏平台-简历求指点【待筛选】
 - 大菜菜-大数据开发偏平台-回馈：简历与技术栈分享【已录用】
 
+希望大家修改前，与修改后的内容都放在一个issue里面，一个人一个issue就好
+
 记得，标记中要有有用信息，不要起这种【新人总是没有面试，求指点】标题。
 
 # 注意事项
 本版块对内公开，记得在issue里面隐藏关键信息，保护自己。
+对于特别优秀的分享和简历成长经历，后续会整理成文章和并放在本项目的正文中
 
 ![公众号二维码](https://mmbiz.qpic.cn/mmbiz_jpg/EjjRT2SXvmHEhMpwK583nfW8UXplPHqoZeib2Roibib3p5rKS5WIATf791EjAcQU7YTFu1GseicdBug683u928v6gA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
+

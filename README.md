@@ -1,5 +1,7 @@
 # OurResume
 针对我们参与过鹅厂校招，并被大菜菜内推过的同学，或许点评与学习简历
+本模块的精华内推会整理在【大菜菜鹅厂offer人】公众号上。
+![公众号二维码](https://mmbiz.qpic.cn/mmbiz_jpg/EjjRT2SXvmHEhMpwK583nfW8UXplPHqoZeib2Roibib3p5rKS5WIATf791EjAcQU7YTFu1GseicdBug683u928v6gA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
 本人大菜菜，去年秋招上岸的菜鸡学生
 今年上岸后，着手内推工作， 深得大家的错爱，目前已经内推 1500+，实习录用200+【截止20200419】。内推的人数越多， 深感身上的责任越来越大。
@@ -18,4 +20,4 @@
 # 注意事项
 本版块对内公开，记得在issue里面隐藏关键信息，保护自己。
 
-
+![公众号二维码](https://mmbiz.qpic.cn/mmbiz_jpg/EjjRT2SXvmHEhMpwK583nfW8UXplPHqoZeib2Roibib3p5rKS5WIATf791EjAcQU7YTFu1GseicdBug683u928v6gA/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
